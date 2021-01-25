@@ -1,0 +1,8 @@
+test.ipynb
+.ipynb_checkpoints
+
+#HW1
+HW1/*
+!HW1/Tasks_pandas.ipynb
+!HW1/adult.data.csv
+!HW1/.ipynb_checkpoints
